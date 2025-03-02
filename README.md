@@ -12,3 +12,5 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+![alt text](https://github.com/pgustavo73/bookpedia/blob/main/kmp%20book%20pedia%20cover.jpeg)
